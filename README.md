@@ -1,10 +1,97 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:E50914&height=220&section=header&text=Muthu%20Selvan%20E&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=FFAFAF" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF3131&background=0D0D0D00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Clean+%26+Powerful+Web+Apps;Welcome+to+my+GitHub+%F0%9F%94%A5" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Open%20to%20Work-E50914?style=for-the-badge&labelColor=0D0D0D" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-E50914?style=for-the-badge&labelColor=0D0D0D" /> </p>
-<h3 align="center">🚀 About Me</h3> <p align="center"> 🔭 Full Stack Developer — MERN stack focused<br/> 🌱 Always learning new tools & frameworks<br/> 💡 Love building clean, functional web apps<br/> 📫 your-email@example.com </p>
-<h3 align="center">🛠️ Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" /> </p>
-<h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muthu-cse-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthu-cse-coder&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthu-cse-coder&theme=dark&hide_border=true&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914" /> </p>
-<h3 align="center">🐍 Contribution Snake</h3> <p align="center"> <img src="https://raw.githubusercontent.com/muthu-cse-coder/muthu-cse-coder/output/github-contribution-grid-snake-dark.svg" /> </p>
+<!-- ===================== PREMIUM 3D DARK GITHUB PROFILE ===================== -->
 
-Snake animation active pannurathukku, keezha "Snake Setup" steps follow pannunga (optional).
+<div align="center">
 
-<h3 align="center">🌐 Connect with Me</h3> <p align="center"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E50914" /> </a> <a href="https://instagram.com/your-instagram" target="_blank"> <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E50914" /> </a> <a href="mailto:your-email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:E50914&height=100&section=footer" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=muthu-cse-coder&label=Profile%20Views&color=E50914&style=for-the-badge&labelColor=0D0D0D" />
+<img src="./assets/banner.png" width="100%" alt="Muthu Selvan E - Full Stack Developer"/>
+
+<br/>
+
+# 👋 Hey, I'm <span style="color:#ff9d00;">Muthu Selvan E</span>
+
+### 🚀 Full Stack Developer
+
+<br/>
+
+<p>
+  Building scalable applications, clean interfaces and powerful digital experiences.
+</p>
+
+<br/>
+
+<!-- FUTURISTIC 3D STYLE ANIMATION -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=FF9D00&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;BUILD.+CREATE.+INNOVATE.;TURNING+IDEAS+INTO+DIGITAL+EXPERIENCES."
+  alt="Typing SVG"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ⚡ TECHNOLOGY STACK
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go,react,js,ts,nodejs,python,java,graphql,mysql,postgres,docker,kubernetes,aws,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<br/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF9D00&icon_color=FF9D00&text_color=FFFFFF&bg_color=0D1117"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF9D00&text_color=FFFFFF&bg_color=0D1117"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🔥 CONTRIBUTION ACTIVITY
+
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF9D00&fire=FF9D00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🧠 CURRENT FOCUS
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        🚀 Building Powerful Web Applications         ║
+║        ⚡ Exploring Scalable Backend Systems         ║
+║        🧩 Creating Premium User Experiences          ║
+║        🔥 Always Learning. Always Building.          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
