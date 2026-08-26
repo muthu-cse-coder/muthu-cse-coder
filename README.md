@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Muthu Selvan E - Full Stack Developer"/>
+<img src="./images/me.png" width="100%" alt="Muthu Selvan E - Full Stack Developer"/>
 
 <br/>
 
